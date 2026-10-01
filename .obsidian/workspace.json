@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEST/test1/测试test-markdown学习测试.md",
+                "file": "TEST/test1/那什么的obsidian的快捷键.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "测试test-markdown学习测试"
+              "title": "那什么的obsidian的快捷键"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "那什么的obsidian的快捷键"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +203,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb4e781061a6c6c8",
+  "active": "c13e45738b213c35",
   "lastOpenFiles": [
     "TEST/test1/测试test-markdown学习测试.md",
     "TEST/test1/那什么的obsidian的快捷键.md",
