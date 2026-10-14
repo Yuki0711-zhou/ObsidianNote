@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习计算机（简略版）/四.乱码 三元运算符 正则表达式.md",
+                "file": "学习计算机（简略版）/4.乱码 三元运算符 正则表达式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "四.乱码 三元运算符 正则表达式"
+              "title": "4.乱码 三元运算符 正则表达式"
+            }
+          },
+          {
+            "id": "6eae5b23c3be1ab9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习计算机（简略版）/4.1 正则表达式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.1 正则表达式"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -246,16 +260,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dde452efaa917c69",
+  "active": "0d66485a1e76a963",
   "lastOpenFiles": [
-    "乱七八糟/乱码-三元运算符-正则表达式.md",
-    "学习计算机（简略版）/一.软件开发流程.md",
-    "学习计算机（简略版）/四.乱码 三元运算符 正则表达式.md",
-    "学习计算机（简略版）/三.前端与后端-语言逻辑与常见问题.md",
-    "TEST/test1/那什么的obsidian的快捷键.md",
-    "学习计算机（简略版）/四.乱码 三元运算符 正则表达式.md",
     "TEST/test1/测试test-markdown学习测试.md",
-    "学习计算机（简略版）/二.编译型语言与解释型语言.md",
+    "学习计算机（简略版）/4.乱码 三元运算符 正则表达式.md",
+    "学习计算机（简略版）/3.前端与后端-语言逻辑与常见问题.md",
+    "学习计算机（简略版）/2.编译型语言与解释型语言.md",
+    "学习计算机（简略版）/1.软件开发流程.md",
+    "学习计算机（简略版）/4.1 正则表达式.md",
+    "正则表达式零基础完全教程.md",
+    "乱七八糟/乱码-三元运算符-正则表达式.md",
+    "TEST/test1/那什么的obsidian的快捷键.md",
     "乱七八糟/计算机怎么理解C语言-编译与解释通俗讲解.md",
     "学习计算机（简略版）/计算机怎么理解C语言-编译与解释通俗讲解.md",
     "未命名",
