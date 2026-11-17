@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -317,8 +317,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7dd23608aecded3f",
+  "active": "3eb8b4fa4299d5d7",
   "lastOpenFiles": [
+    "file:C:/Users/youmo/Desktop/C++期中总结.md",
     "file:C:/Users/youmo/Desktop/期中练习.md",
     "file:C:/Users/youmo/Desktop/程序设计练习二.md",
     "学习计算机（简略版）/3.前端与后端-语言逻辑与常见问题.md",
