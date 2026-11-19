@@ -106,49 +106,21 @@
             }
           },
           {
-            "id": "a7dc48e619fea681",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "file:C:/Users/youmo/Desktop/期中练习.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "期中练习"
-            }
-          },
-          {
-            "id": "211bf9fff5f969b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "file:C:/Users/youmo/Desktop/期中练习.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "期中练习"
-            }
-          },
-          {
             "id": "7dd23608aecded3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "file:C:/Users/youmo/Desktop/C++期中总结.md",
+                "file": "file:C:/Users/youmo/Desktop/程序设计---讲解师/期中练习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C++期中总结"
+              "title": "期中练习"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -317,10 +289,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "211bf9fff5f969b3",
+  "active": "7dd23608aecded3f",
   "lastOpenFiles": [
-    "file:C:/Users/youmo/Desktop/C++期中总结.md",
     "file:C:/Users/youmo/Desktop/期中练习.md",
+    "file:C:/Users/youmo/Desktop/C++期中总结.md",
     "file:C:/Users/youmo/Desktop/程序设计练习二.md",
     "学习计算机（简略版）/3.前端与后端-语言逻辑与常见问题.md",
     "学习计算机（简略版）/4.1 正则表达式.md",
